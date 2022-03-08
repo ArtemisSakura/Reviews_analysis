@@ -28,7 +28,7 @@ chart_def = """
             format: '{value}'
         },
         accessibility: {
-            rangeDescription: 'Range: .'
+            rangeDescription: 'Range: 2018-01-01 to 2021-03-16.'
         },
         maxPadding: 0.05,
         showLastLabel: true

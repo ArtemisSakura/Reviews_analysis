@@ -41,7 +41,7 @@ chart_def = """
             format: '{value}'
         },
         accessibility: {
-            rangeDescription: 'Range: 0 to 5.5.'
+            rangeDescription: 'Range: 1 to 5.'
         },
         lineWidth: 2
     },

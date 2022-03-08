@@ -77,8 +77,7 @@ def app():
     hc.options.title.text = 'Average Rating by Day'
 
     hc.options.xAxis.categories = list(day_average.index)
-    hc.options.series[0].data = list(
-        day_average['Rating'])
+    hc.options.series[0].data = list(day_average['Rating'])
 
     return wp
 

@@ -1,5 +1,6 @@
 ## reviews_analysis
-### Task 1: Data Analysis and Visualization with Pandas and Matplotlib for Course Reviews (Ardit Sulce's Python Mega Course)
+### Task 1: Data Analysis and Visualization with Pandas and Matplotlib for Course Reviews 
+(Ardit Sulce's Python Mega Course)
 ### Task 2: Build a In-Browser Interactive Web App that Processes Excel and CSV files
 
 What I can do:
